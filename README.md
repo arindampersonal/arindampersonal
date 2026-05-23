@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arindam Dutta</h1>
-<h3 align="center">☁️ Azure & DevOps Enthusiast | Terraform Engineer | AI Backend Explorer</h3>
+<h3 align="center">☁️ DevOps Engineer(Microsoft Azure) | Terraform SME | AI Backend Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Azure+Cloud+Engineer;Terraform+Infrastructure+Automation;Docker+%7C+CI%2FCD+%7C+Python;AI+Backend+Systems+Explorer;Open+Source+Learner" alt="Typing SVG" />
