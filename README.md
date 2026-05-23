@@ -23,7 +23,8 @@
 <a href="https://github.com/arindampersonal" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
 </a>
-<a href="www.linkedin.com/in/mr-arindam-dutta" target="blank">
+
+<a href="https://www.linkedin.com/in/mr-arindam-dutta/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 </p>
